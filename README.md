@@ -5,3 +5,8 @@
 |**celular**| 3160412212            |
 |**T.I**| 1139425989                |
 |**correo**| nyeres02102006@gmail.com|
+
+# Estudios
+|**colegio**| I.E.D German Vargas Cantillo|
+|-----------|-----------------------------|
+|**Sena**| Centro Industrial de Aviacion|
